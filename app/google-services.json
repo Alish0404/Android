@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "581164610290",
+    "project_id": "alisher-b1d90",
+    "storage_bucket": "alisher-b1d90.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581164610290:android:293b2a92e4fc88d9d0966b",
+        "android_client_info": {
+          "package_name": "com.example.androidproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCYisT_cumIgWC6gqOBwPogqYgqO4JiIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581164610290:android:0180db04bfc87709d0966b",
+        "android_client_info": {
+          "package_name": "com.example.myapp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCYisT_cumIgWC6gqOBwPogqYgqO4JiIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

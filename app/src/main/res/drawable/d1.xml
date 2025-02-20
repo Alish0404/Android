@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetLeft="8dp"
+    android:insetRight="8dp"
+    android:insetTop="4dp"
+    android:insetBottom="4dp">
+
+    <shape android:shape="rectangle">
+        <solid android:color="#FFFFFF"/> <!-- Белый фон -->
+        <stroke android:width="2dp" android:color="#0A83E4"/> <!-- Голубая рамка -->
+        <corners android:radius="16dp"/> <!-- Скругленные углы -->
+    </shape>
+
+</inset>

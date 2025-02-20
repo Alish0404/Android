@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Androidproject</string>
+    <string name="api_key">a17eb7e07fce1afaf5f475199be40caf</string>
+    <string name="ali">Abilakim Alisher</string>
+    <string name="username">Alisher</string>
+    <string name="profile">Profile</string>
+    <string name="about">About</string>
+    <string name="user_information">User Information</string>
+    <string name="username_">Username</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="age">Age</string>
+    <string name="_21">21</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="_07_02_2003">28/05/2004</string>
+    <string name="mobile">Mobile</string>
+    <string name="_91_9000000009">+8-775-949-93-90</string>
+    <string name="email">Email</string>
+    <string name="axxxxxxa_gmail_com">aabilakim17@gmail.com</string>
+    <string name="user_email">aabilakim17@gmail.com</string>
+    <string name="social_media">Social Media</string>
+</resources>
